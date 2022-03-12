@@ -1,1 +1,2 @@
 This is my first deep learning project. I classified famous MNIST Handwritten Digit Dataset using Artificial Neural Network in Tensorflow Keras. I achieved an accuracy of 92.6% by using only input and output layers and accuracy of 97.4% by introducing one hidden layer in the model.
+![MNIST Classifier](https://github.com/DinIftikhar/DeepLearningwithTensorflowKeras/blob/main/MNISTHandwrittenDigitClassification/MNISTClassification.png "Confusion Matrix for MNIST Classifier using ANN")
